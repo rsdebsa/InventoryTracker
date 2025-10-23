@@ -1,0 +1,11 @@
+C:\Projects\InventoryTracker\src\InventoryTracker.Domain\bin\Debug\net8.0\InventoryTracker.Domain.deps.json
+C:\Projects\InventoryTracker\src\InventoryTracker.Domain\bin\Debug\net8.0\InventoryTracker.Domain.dll
+C:\Projects\InventoryTracker\src\InventoryTracker.Domain\bin\Debug\net8.0\InventoryTracker.Domain.pdb
+C:\Projects\InventoryTracker\src\InventoryTracker.Domain\obj\Debug\net8.0\InventoryTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\InventoryTracker\src\InventoryTracker.Domain\obj\Debug\net8.0\InventoryTracker.Domain.AssemblyInfoInputs.cache
+C:\Projects\InventoryTracker\src\InventoryTracker.Domain\obj\Debug\net8.0\InventoryTracker.Domain.AssemblyInfo.cs
+C:\Projects\InventoryTracker\src\InventoryTracker.Domain\obj\Debug\net8.0\InventoryTracker.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\InventoryTracker\src\InventoryTracker.Domain\obj\Debug\net8.0\InventoryTracker.Domain.dll
+C:\Projects\InventoryTracker\src\InventoryTracker.Domain\obj\Debug\net8.0\refint\InventoryTracker.Domain.dll
+C:\Projects\InventoryTracker\src\InventoryTracker.Domain\obj\Debug\net8.0\InventoryTracker.Domain.pdb
+C:\Projects\InventoryTracker\src\InventoryTracker.Domain\obj\Debug\net8.0\ref\InventoryTracker.Domain.dll

@@ -1,0 +1,17 @@
+C:\Projects\InventoryTracker\src\InventoryTracker.Infrastructure\bin\Debug\net8.0\InventoryTracker.Infrastructure.deps.json
+C:\Projects\InventoryTracker\src\InventoryTracker.Infrastructure\bin\Debug\net8.0\InventoryTracker.Infrastructure.runtimeconfig.json
+C:\Projects\InventoryTracker\src\InventoryTracker.Infrastructure\bin\Debug\net8.0\InventoryTracker.Infrastructure.dll
+C:\Projects\InventoryTracker\src\InventoryTracker.Infrastructure\bin\Debug\net8.0\InventoryTracker.Infrastructure.pdb
+C:\Projects\InventoryTracker\src\InventoryTracker.Infrastructure\bin\Debug\net8.0\InventoryTracker.Domain.dll
+C:\Projects\InventoryTracker\src\InventoryTracker.Infrastructure\bin\Debug\net8.0\InventoryTracker.Domain.pdb
+C:\Projects\InventoryTracker\src\InventoryTracker.Infrastructure\obj\Debug\net8.0\InventoryTracker.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\InventoryTracker\src\InventoryTracker.Infrastructure\obj\Debug\net8.0\InventoryTracker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\InventoryTracker\src\InventoryTracker.Infrastructure\obj\Debug\net8.0\InventoryTracker.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\InventoryTracker\src\InventoryTracker.Infrastructure\obj\Debug\net8.0\InventoryTracker.Infrastructure.AssemblyInfo.cs
+C:\Projects\InventoryTracker\src\InventoryTracker.Infrastructure\obj\Debug\net8.0\InventoryTracker.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\InventoryTracker\src\InventoryTracker.Infrastructure\obj\Debug\net8.0\Inventor.FB2049D7.Up2Date
+C:\Projects\InventoryTracker\src\InventoryTracker.Infrastructure\obj\Debug\net8.0\InventoryTracker.Infrastructure.dll
+C:\Projects\InventoryTracker\src\InventoryTracker.Infrastructure\obj\Debug\net8.0\refint\InventoryTracker.Infrastructure.dll
+C:\Projects\InventoryTracker\src\InventoryTracker.Infrastructure\obj\Debug\net8.0\InventoryTracker.Infrastructure.pdb
+C:\Projects\InventoryTracker\src\InventoryTracker.Infrastructure\obj\Debug\net8.0\InventoryTracker.Infrastructure.genruntimeconfig.cache
+C:\Projects\InventoryTracker\src\InventoryTracker.Infrastructure\obj\Debug\net8.0\ref\InventoryTracker.Infrastructure.dll

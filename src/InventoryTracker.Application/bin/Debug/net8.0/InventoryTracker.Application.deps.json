@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "InventoryTracker.Application/1.0.0": {
+        "dependencies": {
+          "InventoryTracker.Domain": "1.0.0"
+        },
+        "runtime": {
+          "InventoryTracker.Application.dll": {}
+        }
+      },
+      "InventoryTracker.Domain/1.0.0": {
+        "runtime": {
+          "InventoryTracker.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InventoryTracker.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InventoryTracker.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

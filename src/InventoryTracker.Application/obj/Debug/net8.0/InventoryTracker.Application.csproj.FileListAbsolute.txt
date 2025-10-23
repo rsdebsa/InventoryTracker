@@ -1,0 +1,15 @@
+C:\Projects\InventoryTracker\src\InventoryTracker.Application\bin\Debug\net8.0\InventoryTracker.Application.deps.json
+C:\Projects\InventoryTracker\src\InventoryTracker.Application\bin\Debug\net8.0\InventoryTracker.Application.dll
+C:\Projects\InventoryTracker\src\InventoryTracker.Application\bin\Debug\net8.0\InventoryTracker.Application.pdb
+C:\Projects\InventoryTracker\src\InventoryTracker.Application\bin\Debug\net8.0\InventoryTracker.Domain.dll
+C:\Projects\InventoryTracker\src\InventoryTracker.Application\bin\Debug\net8.0\InventoryTracker.Domain.pdb
+C:\Projects\InventoryTracker\src\InventoryTracker.Application\obj\Debug\net8.0\InventoryTracker.Application.csproj.AssemblyReference.cache
+C:\Projects\InventoryTracker\src\InventoryTracker.Application\obj\Debug\net8.0\InventoryTracker.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\InventoryTracker\src\InventoryTracker.Application\obj\Debug\net8.0\InventoryTracker.Application.AssemblyInfoInputs.cache
+C:\Projects\InventoryTracker\src\InventoryTracker.Application\obj\Debug\net8.0\InventoryTracker.Application.AssemblyInfo.cs
+C:\Projects\InventoryTracker\src\InventoryTracker.Application\obj\Debug\net8.0\InventoryTracker.Application.csproj.CoreCompileInputs.cache
+C:\Projects\InventoryTracker\src\InventoryTracker.Application\obj\Debug\net8.0\Inventor.A51F9153.Up2Date
+C:\Projects\InventoryTracker\src\InventoryTracker.Application\obj\Debug\net8.0\InventoryTracker.Application.dll
+C:\Projects\InventoryTracker\src\InventoryTracker.Application\obj\Debug\net8.0\refint\InventoryTracker.Application.dll
+C:\Projects\InventoryTracker\src\InventoryTracker.Application\obj\Debug\net8.0\InventoryTracker.Application.pdb
+C:\Projects\InventoryTracker\src\InventoryTracker.Application\obj\Debug\net8.0\ref\InventoryTracker.Application.dll

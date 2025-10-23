@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\InventoryTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D023740A-1DCA-499F-B65B-21A32F899C87}|src\\InventoryTracker.Infrastructure\\InventoryTracker.Infrastructure.csproj|c:\\projects\\inventorytracker\\src\\inventorytracker.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D023740A-1DCA-499F-B65B-21A32F899C87}|src\\InventoryTracker.Infrastructure\\InventoryTracker.Infrastructure.csproj|solutionrelative:src\\inventorytracker.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D023740A-1DCA-499F-B65B-21A32F899C87}|src\\InventoryTracker.Infrastructure\\InventoryTracker.Infrastructure.csproj|c:\\projects\\inventorytracker\\src\\inventorytracker.infrastructure\\inventorytracker.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D023740A-1DCA-499F-B65B-21A32F899C87}|src\\InventoryTracker.Infrastructure\\InventoryTracker.Infrastructure.csproj|solutionrelative:src\\inventorytracker.infrastructure\\inventorytracker.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0EBC32-8AA8-4493-9EA1-53836C8239C6}|src\\InventoryTracker.API\\InventoryTracker.API.csproj|c:\\projects\\inventorytracker\\src\\inventorytracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D0EBC32-8AA8-4493-9EA1-53836C8239C6}|src\\InventoryTracker.API\\InventoryTracker.API.csproj|solutionrelative:src\\inventorytracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0EBC32-8AA8-4493-9EA1-53836C8239C6}|src\\InventoryTracker.API\\InventoryTracker.API.csproj|c:\\projects\\inventorytracker\\src\\inventorytracker.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0EBC32-8AA8-4493-9EA1-53836C8239C6}|src\\InventoryTracker.API\\InventoryTracker.API.csproj|solutionrelative:src\\inventorytracker.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0EBC32-8AA8-4493-9EA1-53836C8239C6}|src\\InventoryTracker.API\\InventoryTracker.API.csproj|c:\\projects\\inventorytracker\\src\\inventorytracker.api\\inventorytracker.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D0EBC32-8AA8-4493-9EA1-53836C8239C6}|src\\InventoryTracker.API\\InventoryTracker.API.csproj|solutionrelative:src\\inventorytracker.api\\inventorytracker.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0EBC32-8AA8-4493-9EA1-53836C8239C6}|src\\InventoryTracker.API\\InventoryTracker.API.csproj|c:\\projects\\inventorytracker\\src\\inventorytracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0EBC32-8AA8-4493-9EA1-53836C8239C6}|src\\InventoryTracker.API\\InventoryTracker.API.csproj|solutionrelative:src\\inventorytracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B78D14-C73F-42D1-8882-773785F3DB05}|src\\InventoryTracker.Domain\\InventoryTracker.Domain.csproj|c:\\projects\\inventorytracker\\src\\inventorytracker.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B78D14-C73F-42D1-8882-773785F3DB05}|src\\InventoryTracker.Domain\\InventoryTracker.Domain.csproj|solutionrelative:src\\inventorytracker.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryTracker.Infrastructure",
+              "DocumentMoniker": "C:\\Projects\\InventoryTracker\\src\\InventoryTracker.Infrastructure\\InventoryTracker.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\InventoryTracker.Infrastructure\\InventoryTracker.Infrastructure.csproj",
+              "ToolTip": "C:\\Projects\\InventoryTracker\\src\\InventoryTracker.Infrastructure\\InventoryTracker.Infrastructure.csproj",
+              "RelativeToolTip": "src\\InventoryTracker.Infrastructure\\InventoryTracker.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-22T22:08:04.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "productscontroller.cs",
+              "DocumentMoniker": "C:\\Projects\\InventoryTracker\\src\\InventoryTracker.API\\Controllers\\productscontroller.cs",
+              "RelativeDocumentMoniker": "src\\InventoryTracker.API\\Controllers\\productscontroller.cs",
+              "ToolTip": "C:\\Projects\\InventoryTracker\\src\\InventoryTracker.API\\Controllers\\productscontroller.cs",
+              "RelativeToolTip": "src\\InventoryTracker.API\\Controllers\\productscontroller.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAYwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:59:43.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryTracker.API",
+              "DocumentMoniker": "C:\\Projects\\InventoryTracker\\src\\InventoryTracker.API\\InventoryTracker.API.csproj",
+              "RelativeDocumentMoniker": "src\\InventoryTracker.API\\InventoryTracker.API.csproj",
+              "ToolTip": "C:\\Projects\\InventoryTracker\\src\\InventoryTracker.API\\InventoryTracker.API.csproj",
+              "RelativeToolTip": "src\\InventoryTracker.API\\InventoryTracker.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-22T21:58:47.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\InventoryTracker\\src\\InventoryTracker.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\InventoryTracker.API\\Program.cs",
+              "ToolTip": "C:\\Projects\\InventoryTracker\\src\\InventoryTracker.API\\Program.cs",
+              "RelativeToolTip": "src\\InventoryTracker.API\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:58:26.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\InventoryTracker\\src\\InventoryTracker.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\InventoryTracker.API\\appsettings.json",
+              "ToolTip": "C:\\Projects\\InventoryTracker\\src\\InventoryTracker.API\\appsettings.json",
+              "RelativeToolTip": "src\\InventoryTracker.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-22T21:57:53.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\InventoryTracker\\src\\InventoryTracker.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\InventoryTracker.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Projects\\InventoryTracker\\src\\InventoryTracker.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "src\\InventoryTracker.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:56:47.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Projects\\InventoryTracker\\src\\InventoryTracker.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "src\\InventoryTracker.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Projects\\InventoryTracker\\src\\InventoryTracker.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "src\\InventoryTracker.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA6wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:56:35.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
