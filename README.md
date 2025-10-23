@@ -8,10 +8,10 @@ This repository represents the **public base version** of the project — design
 
 ## 🧱 Architecture Overview
 src/
-├── InventoryTracker.API/ → Web API layer (Controllers, Swagger, Configuration)
-├── InventoryTracker.Application/ → Business logic (Services, DTOs)
-├── InventoryTracker.Domain/ → Core entities and domain models
-└── InventoryTracker.Infrastructure/→ EF Core context and data access
+├── InventoryTracker.API/              → Web API layer (Controllers, Swagger, Configuration)
+├── InventoryTracker.Application/      → Business logic (Services, DTOs)
+├── InventoryTracker.Domain/           → Core entities and domain models
+└── InventoryTracker.Infrastructure/   → EF Core context and data access
 
 ---
 
