@@ -1,0 +1,50 @@
+# Build folders
+bin/
+obj/
+out/
+publish/
+
+# User-specific files and settings
+.vs/
+*.user
+*.suo
+*.rsuser
+
+# Logs and databases
+*.log
+*.dbmdl
+*.mdf
+*.ldf
+*.sqlite
+*.db
+
+# Entity Framework migration temp outputs
+[Mm]igrations/obj/
+[Mm]igrations/bin/
+
+# Configuration and local secrets
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+*.Secret.json
+
+# IDE / Editor metadata
+.idea/
+.vscode/
+*.code-workspace
+
+# OS-generated files
+Thumbs.db
+ehthumbs.db
+.DS_Store
+desktop.ini
+
+# Backup / Merge / Temp files
+*.orig
+*.tmp
+*.bak
+
+# Publish profiles and build artifacts
+Properties/PublishProfiles/
+wwwroot/
+*.Publish.xml
